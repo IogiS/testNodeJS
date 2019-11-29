@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/a3f2d305-c2f8-4b38-a7c8-25aaba2f9166/resourceGroups/g-Katalog/providers/Microsoft.Web/sites/gg-Katalog",
+    "appService.deploySubpath": ""
+}
